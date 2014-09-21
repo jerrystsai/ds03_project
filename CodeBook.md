@@ -2,7 +2,7 @@ Data Set Information
 --------------------
 This data set consists of measurements collected from accelerometers and gyroscopes contained within smartphones worn by 30 volunteers. Each person performed six activities: walking, walking upstairs, walking downstairs, sitting, standing, and laying. 
 
-These data derive originally from a set of data sets described in this [original data documentation]("http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones"), and consists of these [original data sets, zipped]("http://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Dataset.zip").
+These data derive originally from a set of data sets described in this [original data documentation](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones), and consists of these [original data sets, zipped](http://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Dataset.zip).
 
 Rather than repeating verbatim what is found in the original documentation, this document focuses on describing how this data set derives from the set of original data.
 

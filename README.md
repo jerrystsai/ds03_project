@@ -17,3 +17,5 @@ The file **run_analysis.R**:
 - Uses descriptive activity names to name the activities in the data set
 - From the resulting data set, creates a second, independent tidy data set with the average of each variable for each activity and each subject
 - Writes this data set to a text file, tidy_ds.txt
+
+The file **CodeBook.md** describes the data and the data set.
