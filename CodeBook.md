@@ -8,7 +8,7 @@ Rather than repeating verbatim what is found in the original documentation, this
 
 This data set consists of **69 variables**, and with each of 6 activities undertaken by 30 subjects, has **180 observations**. 
 
-Two variables identify the activity (activity.name and activity.ld) and one varaible identifies the subject (subject.id).
+Two variables identify the activity (activity.name and activity.ld) and one variable identifies the subject (subject.id).
 
 Each of the other 66 variables is the mean of measurements taken for a particular signal within each activity/subject combination, 
 
